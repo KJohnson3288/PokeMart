@@ -3,9 +3,10 @@ html{
 }
 
 body {
-    margin: 0;
-    padding: 2.5%;
+    margin: auto;
+    padding: 0;
     min-height: 100%;
+    max-width: 50%;
 }
 
 h1 {
