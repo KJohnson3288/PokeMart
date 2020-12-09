@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PokeMart/static/css/main.4041b330.chunk.css",
+    "main.js": "/PokeMart/static/js/main.d85d751a.chunk.js",
+    "main.js.map": "/PokeMart/static/js/main.d85d751a.chunk.js.map",
+    "runtime-main.js": "/PokeMart/static/js/runtime-main.07de4df8.js",
+    "runtime-main.js.map": "/PokeMart/static/js/runtime-main.07de4df8.js.map",
+    "static/css/2.83342f34.chunk.css": "/PokeMart/static/css/2.83342f34.chunk.css",
+    "static/js/2.e306368b.chunk.js": "/PokeMart/static/js/2.e306368b.chunk.js",
+    "static/js/2.e306368b.chunk.js.map": "/PokeMart/static/js/2.e306368b.chunk.js.map",
+    "index.html": "/PokeMart/index.html",
+    "static/css/2.83342f34.chunk.css.map": "/PokeMart/static/css/2.83342f34.chunk.css.map",
+    "static/css/main.4041b330.chunk.css.map": "/PokeMart/static/css/main.4041b330.chunk.css.map",
+    "static/js/2.e306368b.chunk.js.LICENSE.txt": "/PokeMart/static/js/2.e306368b.chunk.js.LICENSE.txt",
+    "static/media/Kurt-Apricorn.890364c4.jpeg": "/PokeMart/static/media/Kurt-Apricorn.890364c4.jpeg",
+    "static/media/apricorns.8c8da0bc.png": "/PokeMart/static/media/apricorns.8c8da0bc.png",
+    "static/media/pokeball-logo.23556235.png": "/PokeMart/static/media/pokeball-logo.23556235.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07de4df8.js",
+    "static/css/2.83342f34.chunk.css",
+    "static/js/2.e306368b.chunk.js",
+    "static/css/main.4041b330.chunk.css",
+    "static/js/main.d85d751a.chunk.js"
+  ]
+}
