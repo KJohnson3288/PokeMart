@@ -1,38 +1,158 @@
-.App {
-  text-align: center;
+html{
+    height: 100%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+    margin: 0;
+    padding: 2.5%;
+    min-height: 100%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+h1 {
+    text-shadow: 3px 3px 3px black;
+}
+
+.main-title {
+    padding: 10%;
+    background: linear-gradient(1turn, rgb(0, 140, 255), white, rgb(0, 140, 255));
+    box-shadow: 7px 7px 5px grey;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: silver;
+}
+
+.pokemart {
+    text-align: center;
+}
+
+.pokemart-text {
+    text-align: center;
+}
+
+
+.poke-logo {
+    align-self: center;
+    margin: auto;
+    padding: 0;
+    width: 30%;
+    height: 50%;
+}
+
+.heal-title {
+    margin: 2%;
+    background: linear-gradient(0.15turn, yellow, lightgoldenrodyellow, yellowgreen);
+    box-shadow: 3px 3px 5px grey;
+}
+
+.potion-title {
+    margin: 2%;
+    background: linear-gradient(0.15turn, lightpink, white, rgb(255, 0, 149));
+    box-shadow: 3px 3px 5px grey;
+}
+
+.pokeball-title {
+    margin: 2%;
+    background: linear-gradient(0.10turn, red 20%, black, white 80%);
+    box-shadow: 3px 3px 5px grey;
+}
+
+.cart-title {
+    margin: 2%;
+    background: linear-gradient(0.10turn, silver, white, black);
+    box-shadow: 3px 3px 5px grey;
+}
+
+  .cart-img {
+      width: 65%;
+      height: 85%;
+      padding: 5%;
+      margin: 0%;
   }
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  .remove-area {
+      align-self: center;
   }
-  to {
-    transform: rotate(360deg);
+
+  .clear-cart {
+      margin: 2%;
   }
+
+.kurt {
+    margin: 2%;
+    height: 30%;
+    width: 20%;
+    align-self: center;
 }
+
+.card-img {
+    margin: 5%;
+    height: 85%;
+    width: 85%;
+    align-self: center;
+}
+
+.heal-img {
+    margin: 5%;
+    padding-left: 20%;
+    align-self: center;
+    height: 60%;
+    width: 50%;
+}
+
+.contact-form {
+    padding: 2%;
+    margin: 2%;
+    background:linear-gradient(0.20turn, gray, white, gray);
+}
+
+.contact-btn {
+    background-color: white;
+}
+
+.contact-title {
+    text-shadow: 2px 2px white;
+}
+
+
+/* -------------------------------------------------- total table css -------------------------------------------- */
+
+
+.totals .totals-item {
+    float: right;
+    clear: both;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  .totals .totals-item label {
+    float: left;
+    clear: both;
+    width: 79%;
+    text-align: right;
+  }
+  .totals .totals-item .totals-value {
+    float: right;
+    width: 21%;
+    text-align: right;
+  }
+   
+  .checkout {
+    float: right;
+    border: 0;
+    margin-top: 20px;
+    padding: 6px 25px;
+    background-color: #6b6;
+    color: #fff;
+    font-size: 25px;
+    border-radius: 3px;
+  }
+   
+
+
+  .totals {
+    display: flex;
+    margin-top: 50px;
+    padding:10px;
+    flex-direction: column;
+  }
+  
